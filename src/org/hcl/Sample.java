@@ -8,5 +8,9 @@ public class Sample {
 	public void sub() {
 System.out.println("Sub");
 	}
+	public void hcl() {
+System.out.println("Hcl");
+
+	}
 
 }
